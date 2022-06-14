@@ -1,16 +1,15 @@
 ### Hi there 👋
 
-<!--
-**AmiyazGitHubLab/AmiyazGithubLab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Im Amiyaz! I love to code with Python, C++ and JavaScript
 
-Here are some ideas to get you started:
+Since you're here, Check out my projects
+- https://github.com/AmiyazGitHubLab/Python-Madness
+- https://github.com/AmiyazGitHubLab/M5GO-Insanity
+- https://github.com/AmiyazGitHubLab/KrunkerCSS
+- https://github.com/AmiyazGitHubLab/RGBParrot
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+And my forked projects:
+- https://github.com/AmiyazGitHubLab/pdf.js-Mozilla
+- https://github.com/AmiyazGitHubLab/Calculator
+- https://github.com/AmiyazGitHubLab/NUTELLAA
+- https://github.com/AmiyazGitHubLab/QUIZIZZ-ASSETS
