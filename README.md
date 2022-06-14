@@ -2,7 +2,7 @@
 
 Im Amiyaz! I love to code with Python, C++ and JavaScript
 
-### Since you're here, Check out my projects
+### Since you're here, Check out my projects:
 - https://github.com/AmazingGitHubLab/Python-Madness
 - https://github.com/AmazingGitHubLab/M5GO-Insanity
 - https://github.com/AmazingGitHubLab/KrunkerCSS
