@@ -13,7 +13,7 @@
 
 -[`RGBParrot`](https://github.com/AmazingGitHubLab/RGBParrot): My first application that is both funny and cool!
 
-### And my forked projects *Some useless, some useful*:
+### And my forked projects (*Some useless, some useful*):
 -[`pdf.js-Mozilla`](https://github.com/AmazingGitHubLab/pdf.js-Mozilla): Forked direftly from Mozilla's GitHub account, contains pdf.js which is a pdf viewer that is enabled in Firefox automatically
 
 -[`Calculator`](https://github.com/AmazingGitHubLab/Calculator): A calculator code which is pretty unnecessary if you ask me but is pretty cool 
