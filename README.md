@@ -15,6 +15,9 @@
 
 ### And my forked projects *Some useless, some useful*:
 -[`pdf.js-Mozilla`](https://github.com/AmazingGitHubLab/pdf.js-Mozilla): Forked direftly from Mozilla's GitHub account, contains pdf.js which is a pdf viewer that is enabled in Firefox automatically
+
 -[`Calculator`](https://github.com/AmazingGitHubLab/Calculator): A calculator code which is pretty unnecessary if you ask me but is pretty cool 
+
 -[`NUTELLAA`](https://github.com/AmazingGitHubLab/NUTELLAA): NUTELLAA CLICCER APP!
+
 -[`QUIZIZZ-ASSETS`](https://github.com/AmazingGitHubLab/QUIZIZZ-ASSETS): Quizizz assets forked from @lomnom that I think would be useful
