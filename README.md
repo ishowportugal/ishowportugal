@@ -20,4 +20,4 @@
 
 -[`NUTELLAA`](https://github.com/AmazingGitHubLab/NUTELLAA): NUTELLAA CLICCER APP!
 
--[`QUIZIZZ-ASSETS`](https://github.com/AmazingGitHubLab/QUIZIZZ-ASSETS): Quizizz assets forked from @lomnom that I think would be useful
+-[`QUIZIZZ-ASSETS`](https://github.com/AmazingGitHubLab/QUIZIZZ-ASSETS): Quizizz assets forked from [`@lomnom`](https://github.com/lomnom) that I think would be useful
