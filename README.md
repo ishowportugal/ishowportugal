@@ -2,7 +2,7 @@
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingGitHubLab&langs_count=5&theme=tokyonight)
 
-### Hello there! 👋
+![tenor](https://user-images.githubusercontent.com/105401901/173768674-20f3a8cd-7684-4984-a7b7-563c9254340b.gif)
 
 𝓘𝓶 𝓐𝓶𝓲𝔂𝓪𝔃! 𝓘 𝓵𝓸𝓿𝓮 𝓽𝓸 𝓬𝓸𝓭𝓮 𝔀𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷, 𝓒++ 𝓪𝓷𝓭 𝓙𝓪𝓿𝓪𝓢𝓬𝓻𝓲𝓹𝓽
 
