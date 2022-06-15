@@ -1,4 +1,6 @@
-[!AmazingGitHubLab's stats](https://github-readme-stats.vercel.app/api?username=AmazingGitHubLab)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?usernameAmazingGitHubLab&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingGitHubLab&langs_count=5&theme=tokyonight)]()
+
 ### Hello there! 👋
 
 𝓘𝓶 𝓐𝓶𝓲𝔂𝓪𝔃! 𝓘 𝓵𝓸𝓿𝓮 𝓽𝓸 𝓬𝓸𝓭𝓮 𝔀𝓲𝓽𝓱 𝓟𝔂𝓽𝓱𝓸𝓷, 𝓒++ 𝓪𝓷𝓭 𝓙𝓪𝓿𝓪𝓢𝓬𝓻𝓲𝓹𝓽
