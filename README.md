@@ -1,4 +1,5 @@
-![Hello there!](https://user-images.githubusercontent.com/105401901/174013495-9b97ec7a-f0a3-467b-b455-c748d378d10b.png)
+![Hello there!Welcome to my Github profile!](https://user-images.githubusercontent.com/105401901/174014066-9819fa57-a89a-4105-8222-1b745c121232.png)
+
 
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=cobalt&border_radius=10)
