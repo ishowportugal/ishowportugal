@@ -1,4 +1,4 @@
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmazingGitHubLab&show_icons=true&theme=cobalt&border_radius=10)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=cobalt&border_radius=10)
 
 ![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingGitHubLab&langs_count=5&theme=tokyonight)
 
