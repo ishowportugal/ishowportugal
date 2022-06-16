@@ -1,6 +1,6 @@
-![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=cobalt&border_radius=10)
+[![SWUbanner](https://raw.githubusercontent.com/vshymanskyy/StandWithUkraine/main/banner-personal-page.svg)](https://vshymanskyy.github.io/StandWithUkraine)
 
-![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmazingGitHubLab&langs_count=5&theme=tokyonight)
+![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=cobalt&border_radius=10)
 
 ![tenor](https://user-images.githubusercontent.com/105401901/173768674-20f3a8cd-7684-4984-a7b7-563c9254340b.gif)
 
