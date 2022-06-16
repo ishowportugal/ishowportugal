@@ -10,7 +10,7 @@
 ### Since you're here, Check out my projects:
 
 
--[`Python Madness`](https://github.com/AmiiHub/Python-Madness): A Repository which contains all of my Python codes, Some belongs to @lomnom and some belong to @SansUndertaleLab
+-[`Python Madness`](https://github.com/AmiiHub/Python-Madness): A Repository which contains all of my Python codes, Some belongs to [`@lomnom`](https://github.com/lomnom) and some belong to [`@SansUndertaleLab`](https://github.com/SansUndertaleLab)
 
 -[`M5GO Insanity`](https://github.com/AmiiHub/M5GO-Insanity): A repository which contains all my M5GO codes which I do in school/home
 
