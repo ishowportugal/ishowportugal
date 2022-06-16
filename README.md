@@ -5,30 +5,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=StandWithUkraine&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=StandWithUkraine&theme=merko)](https://github.com/anuraghazra/github-readme-stats) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=Python-madness)](https://github.com/anuraghazra/github-readme-stats)
 
-### Since you're here, Check out my projects:
 
-
--[`Python Madness`](https://github.com/AmiiHub/Python-Madness): A Repository which contains all of my Python codes, Some belongs to [`@lomnom`](https://github.com/lomnom) and some belong to [`@SansUndertaleLab`](https://github.com/SansUndertaleLab)
-
--[`M5GO Insanity`](https://github.com/AmiiHub/M5GO-Insanity): A repository which contains all my M5GO codes which I do in school/home
-
--[`KrunkerCSS`](https://github.com/AmiiHub/KrunkerCSS): KrunkerCSS's I collected from different discord servers of Krunker youtubers and decided to put it in a repository
-
--[`RGBParrot`](https://github.com/AmiiHub/RGBParrot): My first application that is both funny and cool!
-
-### And my forked projects (*Some useless, some useful*):
--[`pdf.js-Mozilla`](https://github.com/AmiiHub/pdf.js-Mozilla): Forked direftly from Mozilla's GitHub account, contains pdf.js which is a pdf viewer that is enabled in Firefox automatically
-
--[`Calculator`](https://github.com/AmiiHub/Calculator): A calculator code which is pretty unnecessary if you ask me but is pretty cool 
-
--[`NUTELLAA`](https://github.com/AmiiHub/NUTELLAA): NUTELLAA CLICCER APP!
-
--[`QUIZIZZ-ASSETS`](https://github.com/AmiiHub/QUIZIZZ-ASSETS): Quizizz assets forked from [`@lomnom`](https://github.com/lomnom) that I think would be useful
-
--[`@lomnom's readme.md`](https://github.com/lomnom/lomnom): lomnom's readme.md that I decided to fork so that my readme.md can look something like his 
-
--[`StandWithUkraine`](https://github.com/AmiiHub/StandWithUkraine): Some files you could use for your *readme.md* or for your website to promote awareness to help Ukraine
 
 *By the way, I don't mind if you want to fork my readme.md but DO NOT USE IT FOR ILLEGAL PURPOSES OR SOMETHING!!!*
