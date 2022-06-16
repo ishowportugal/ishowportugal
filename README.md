@@ -1,4 +1,4 @@
-![Hello there!Welcome to my Github profile!](https://user-images.githubusercontent.com/105401901/174014066-9819fa57-a89a-4105-8222-1b745c121232.png)
+![Hello there!Welcome to my GitHub profile!](https://user-images.githubusercontent.com/105401901/174014066-9819fa57-a89a-4105-8222-1b745c121232.png)
 
 
 
