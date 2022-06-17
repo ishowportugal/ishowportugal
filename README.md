@@ -5,8 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=M5GO-Insanity&theme=merko)](https://github.com/AmiiHub/M5GO-insanity)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=StandWithUkraine&theme=merko)](https://github.com/AmiiHUb/StandWithUkraine) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=M5GO-Insanity&theme=merko)](https://github.com/AmiiHub/PldTool)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=StandWithUkraine&theme=merko)](https://github.com/AmiiHUb/PldHacking) 
 
 
 
