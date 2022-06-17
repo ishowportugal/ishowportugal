@@ -1,3 +1,11 @@
+<a href="https://www.instagram.com/amiyazofficial/">
+  <img align="left" alt="Amiyaz's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+
+<a href="https://twitter.com/AmiyazMiracle">
+  <img align="left" alt="AmiyazMiracle | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
+</a>
+
 ![Hello there!Welcome to my Github account!](https://user-images.githubusercontent.com/105401901/174060107-7fbcbeb3-d4ac-4fd2-9b2c-0197d80d52e8.png)
 
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=merko)
