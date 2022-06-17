@@ -1,8 +1,5 @@
 ![Hello there!Welcome to my Github account!](https://user-images.githubusercontent.com/105401901/174060107-7fbcbeb3-d4ac-4fd2-9b2c-0197d80d52e8.png)
 
-![](https://visitor-badge.glitch.me/badge?page_id=AmiiHub.AmiiHub)
-
-
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=merko" alt="AmiiHub" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
