@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AmiiHub.AmiiHub)
 
-📈 my github stats
+
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=merko" alt="AmiiHub" />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
