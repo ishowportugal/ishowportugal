@@ -12,7 +12,8 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldTool&theme=merko)]
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=merko)] 
  
-img align="left" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+![image](https://user-images.githubusercontent.com/105401901/174278852-fe202743-0acb-4490-b8b5-aa94b287113f.png)
+
   
 
  💬 ask me about anything, I am happy to help😃
