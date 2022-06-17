@@ -2,10 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AmiiHub.AmiiHub)
 
-
-📈 my github stats
-<p align="left"> <img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=merko" alt="AmiiHub" />
-
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmiiHub?cardType=octocat&theme=merko&showIcons=false)](https://git.io/awesome-stats-card)
 
 ### Favourite repositories:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldTool&theme=merko)]
