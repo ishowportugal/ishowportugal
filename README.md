@@ -5,8 +5,8 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldTool&theme=merko)](https://github.com/AmiiHub/PldTool)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=merko)](https://github.com/AmiiHUb/PldHacking) 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldTool&theme=merko)]
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=merko)] 
 
 
 
