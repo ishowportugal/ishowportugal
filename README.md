@@ -12,11 +12,10 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldTool&theme=merko)]
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=merko)] 
  
-![tenor](https://tenor.com/view/coding-gif-24297652)
+![coding](https://user-images.githubusercontent.com/105401901/174279323-3a6f7920-ed87-4eec-b121-d585331b27de.gif)
 
-  
 
- 💬 ask me about anything, I am happy to help😃
+💬 ask me about anything, I am happy to help😃
  
  **languages and tools:**  
 
