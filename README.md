@@ -8,6 +8,12 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldTool&theme=merko)]
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=merko)] 
 
+
+
+*By the way, I don't mind if you want to fork my readme.md but DO NOT USE IT FOR ILLEGAL PURPOSES OR SOMETHING!!!*
+
+
+
 <a href="https://www.instagram.com/amiyazofficial/">
   <img align="left" alt="Amiyaz's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
 </a>
@@ -15,6 +21,3 @@
 <a href="https://twitter.com/AmiyazMiracle">
   <img align="left" alt="AmiyazMiracle | Twitter" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/twitter.svg" />
 </a>
-
-
-*By the way, I don't mind if you want to fork my readme.md but DO NOT USE IT FOR ILLEGAL PURPOSES OR SOMETHING!!!*
