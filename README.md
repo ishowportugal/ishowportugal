@@ -11,7 +11,7 @@
 ![coding](https://user-images.githubusercontent.com/105401901/174279323-3a6f7920-ed87-4eec-b121-d585331b27de.gif)
 
 
-💬 ask me about anything, I am happy to help😃
+💬 If you have any questions, please do not hesitate to contact me; I would be pleased to assist you.😃
  
  **languages and tools:**  
 
@@ -21,7 +21,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **this week I spent my time on:**
+📊 **This week, I focused my time on:**
 <!--START_SECTION:waka-->
 
 ```text
@@ -33,7 +33,7 @@ XML          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 
-*By the way, I don't mind if you want to fork my readme.md but DO NOT USE IT FOR ILLEGAL PURPOSES OR SOMETHING!!!*
+*By the way, if you want to fork my readme.md, I don't mind, but DO NOT USE IT FOR ILLEGAL PURPOSES OR SOMETHING!!!*
 
 
 
