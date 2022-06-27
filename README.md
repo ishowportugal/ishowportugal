@@ -6,7 +6,7 @@
 
 ### Favourite repositories:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=merko)]
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=BestFirefoxuserChromeCSS&theme=merko)] 
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=SlickTrapefox&theme=merko)] 
  
 ![coding](https://user-images.githubusercontent.com/105401901/174279323-3a6f7920-ed87-4eec-b121-d585331b27de.gif)
 
