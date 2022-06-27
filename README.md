@@ -21,17 +21,6 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
-📊 **This week, I focused my time on:**
-<!--START_SECTION:waka-->
-
-```text
-JavaScript   2 hrs 6 mins    ████▒░░░░░░░░░░░░░░░░░░░░   17.53 %
-CSS          46 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.37 %
-Python       18 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
-JSON         3 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.51 %
-XML          0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 %
-```
-
 
 *By the way, if you want to fork my readme.md, I don't mind, but DO NOT USE IT FOR ILLEGAL PURPOSES OR SOMETHING!!!*
 
