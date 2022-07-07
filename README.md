@@ -8,8 +8,6 @@
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=merko)]
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=amiihub.github.io&theme=merko)] \
 
-<img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=amiihuba&repo=anuraghazra.github.io&theme=buefy" />
-</a>
 
 ![coding](https://user-images.githubusercontent.com/105401901/174279323-3a6f7920-ed87-4eec-b121-d585331b27de.gif)
 
