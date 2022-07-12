@@ -2,7 +2,7 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AmiiHub.AmiiHub)
 
-[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmiiHub?cardType=octocat&theme=merko&showIcons=false)](https://git.io/awesome-stats-card)
+[![My Awesome Stats](https://awesome-github-stats.azurewebsites.net/user-stats/AmiiHub?cardType=octocat&theme=gotham&showIcons=false)](https://git.io/awesome-stats-card)
 
 ### Favourite repositories:
 ![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=merko)]
