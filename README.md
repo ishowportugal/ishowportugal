@@ -5,8 +5,8 @@
 [![Amiyaz's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Favourite repositories:
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=gotham)]
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=amiihub.github.io&theme=gotham)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=PldHacking&theme=gotham)](https://github.com/AmiiHub/Pldhacking)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=amiihub.github.io&theme=gotham)](https://github.cpom/AmiiHub/amiihub.github.io)
 
 
 ![coding](https://user-images.githubusercontent.com/105401901/174279323-3a6f7920-ed87-4eec-b121-d585331b27de.gif)
