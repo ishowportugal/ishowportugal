@@ -27,7 +27,7 @@
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 
 
-*By the way, if you want to fork my readme.md, I don't mind, but DO NOT USE IT FOR ILLEGAL PURPOSES OR SOMETHING!!!*
+*By the way, if you want to fork my readme.md, I don't mind. Don't forget to change the links(replace my username with yours and enable a theme like this: e.g. username=AmiiHub&theme=gotham). DO NOT USE MY REPOSITORY FOR ILLEGAL PURPOSES OR SOMETHING!!!*
 
 
 
