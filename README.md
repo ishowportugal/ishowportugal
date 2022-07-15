@@ -2,8 +2,10 @@
 
 ![](https://visitor-badge.glitch.me/badge?page_id=AmiiHub.AmiiHub)
 
+### My GitHub Stats:
 [![Amiyaz's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
+### Top programming languages:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Favourite repositories:
