@@ -45,12 +45,12 @@ Of course, feel free to clone this repository or use it as a "template" for your
 
 
 <!-- WHY I MADE THIS REPOSITORY: -->
-## Why I made this repository
+## Why I made this repository:
 
 Just to see if anyone can make a *"better"* profile readme.md than me.
 
 <!-- CONTACT -->
-## Contact
+## Contact:
 
 AmiiHub on GitHub - [@AmiyazMiracle](https://twitter.com/AmiyazMiracle) - mohamadamiyaz@gmail.com
 
