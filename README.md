@@ -21,11 +21,9 @@
     <li>
       <a href="https://github.com/AmiiHub/PldHacking">Favourite repository 1</a>
       <ul>
-        <li>
         <li><a href="https://github.com/AmiiHub/amiihub.github.io">Favourite repository 2</a></li>
       </ul>
-    </li>
-    <li><a href="mohamadamiyaz@gmail.com">Gmail</a></li>
+        <li><a href="mohamadamiyaz@gmail.com">Gmail</a></li>
     
   </ol>
 </details>
