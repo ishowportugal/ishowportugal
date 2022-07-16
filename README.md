@@ -20,7 +20,7 @@
   
   -  About me
   
-  - Why I made this repository
+  - Why I made a readme.md like this
   
   - Contacts
   </ol>
@@ -37,8 +37,8 @@ Of course, feel free to clone this repository or use it as a "template" for your
 
 
 
-<!-- WHY I MADE THIS REPOSITORY: -->
-## 𝓦𝓱𝔂 𝓲 𝓶𝓪𝓭𝓮 𝓽𝓱𝓲𝓼 𝓻𝓮𝓹𝓸𝓼𝓲𝓽𝓸𝓻𝔂:
+<!-- WHY I MADE A README>MD LIKE THIS: -->
+## 𝓦𝓱𝔂 𝓘 𝓶𝓪𝓭𝓮 𝓪 𝓻𝓮𝓪𝓭𝓶𝓮.𝓶𝓭 𝓵𝓲𝓴𝓮 𝓽𝓱𝓲𝓼:
 
 Just to see if anyone can make a *"better"* profile readme.md than me.
 
