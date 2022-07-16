@@ -8,7 +8,7 @@
   <h3 align="center">Hello there!</h3>
 
   <p align="center">
-    Singapore's best GitHub readme.md!
+    Singapore's best *coder*!
   </p>
 </div>
 
