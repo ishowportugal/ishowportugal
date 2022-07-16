@@ -23,7 +23,7 @@
       <ul>
         <li><a href="https://github.com/AmiiHub/amiihub.github.io">Favourite repository 2</a></li>
       </ul>
-        <li><a href="https://mail.google.com">Gmail(mail to mohamadamiyaz@gmail.com)</a></li>
+        <li><a href="https://mail.google.com">Gmail (mail to mohamadamiyaz@gmail.com)</a></li>
     
   </ol>
 </details>
