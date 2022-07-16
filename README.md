@@ -17,9 +17,11 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  1. About me
-  2. Why I made this repository
-  3. Contact
+  -  About me
+  
+  - Why I made this repository
+  
+  - Contact
   </ol>
 </details>
 
