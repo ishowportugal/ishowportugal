@@ -54,6 +54,8 @@ Just to see if anyone can make a *"better"* profile readme.md than me.
 
 AmiiHub on GitHub - [@AmiyazMiracle](https://twitter.com/AmiyazMiracle) - mohamadamiyaz@gmail.com
 
-My readme.md repository link: [https://github.com/AmiiHub/AmiiHub](https://github.com/AmiiHub/AmiiHub)
+
+
+My readme.md repository link if you want to fork it to use it for your own readme.md: [Best GitHub Readme.md!](https://github.com/AmiiHub/AmiiHub)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
