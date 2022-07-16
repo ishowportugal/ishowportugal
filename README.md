@@ -61,7 +61,7 @@ Im not giving out my license until I feel like doing it(for now my license is pr
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@AmiyazMiracle](https://twitter.com/AmiyazMiracle) - mohamadamiyaz@gmail.com
+AmiiHub on GitHub - [@AmiyazMiracle](https://twitter.com/AmiyazMiracle) - mohamadamiyaz@gmail.com
 
 My readme.md repository link: [https://github.com/AmiiHub/AmiiHub](https://github.com/AmiiHub/AmiiHub)
 
