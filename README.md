@@ -50,14 +50,6 @@ Of course, feel free to clone this repository or use it as a "template" for your
 I wanted to be the so called *"best"* coder in Singapore hehe. 
 
 
-<!-- LICENSE -->
-## License
-
-Im not giving out my license until I feel like doing it(for now my license is private, *selected people get to view it*). 
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
 <!-- CONTACT -->
 ## Contact
 
