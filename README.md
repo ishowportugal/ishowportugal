@@ -44,8 +44,6 @@
 <!-- ABOUT ME -->
 ## About me:
 
-[![Product Name Screen Shot][product-screenshot]](https://example.com)
-
 Hello there! Im Amiyaz a.k.a AmiiHub on GitHub. I specialise in C++, HTML, and CSS coding. I even have a website: https://amiihub.github.io/
 
 Of course, feel free to clone this repository or use it as a "template" for your own readme.md but *don't forget to credit me for it* 
