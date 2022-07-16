@@ -43,7 +43,7 @@ Of course, feel free to clone this repository or use it as a "template" for your
 Just to see if anyone can make a *"better"* profile readme.md than me.
 
 <!-- CONTACTS -->
-## Contact:
+## Contacts:
 
 AmiiHub on GitHub - [@AmiyazMiracle](https://twitter.com/AmiyazMiracle) - mohamadamiyaz@gmail.com
 
