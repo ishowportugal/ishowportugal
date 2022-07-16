@@ -24,12 +24,6 @@
         <li><a href="https://github.com/AmiiHub/amiihub.github.io">Favourite repository 2</a></li>
       </ul>
     </li>
-    <li>
-      <a href="#getting-started">Getting Started</a>
-      <ul>
-        <li><a href="#prerequisites">Prerequisites</a></li>
-        <li><a href="#installation">Installation</a></li>
-      </ul>
     </li>
     <li><a href="Not revealing my license">License</a></li>
     <li><a href="mohamadamiyaz@gmail.com">Gmail</a></li>
