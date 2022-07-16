@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://avatars.githubusercontent.com/u/105401901?v=4">
-   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> <img src="https://avatars.githubusercontent.com/u/105401901?v=4" alt="Logo" width="80" height="80">
+   <img src="https://avatars.githubusercontent.com/u/105401901?v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!</h3>
