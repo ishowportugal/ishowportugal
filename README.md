@@ -47,7 +47,7 @@ Of course, feel free to clone this repository or use it as a "template" for your
 <!-- WHY I MADE THIS REPOSITORY: -->
 ## Why?
 
-I wanted to be the so called "*best*" coder in Singapore hehe. 
+I wanted to be the so called *"best"* coder in Singapore hehe. 
 
 
 <!-- LICENSE -->
