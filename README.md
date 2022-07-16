@@ -24,8 +24,6 @@
         <li><a href="https://github.com/AmiiHub/amiihub.github.io">Favourite repository 2</a></li>
       </ul>
     </li>
-    </li>
-    <li><a href="Not revealing my license">License</a></li>
     <li><a href="mohamadamiyaz@gmail.com">Gmail</a></li>
     
   </ol>
