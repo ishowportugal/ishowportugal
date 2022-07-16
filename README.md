@@ -45,10 +45,9 @@ Of course, feel free to clone this repository or use it as a "template" for your
 
 
 <!-- WHY I MADE THIS REPOSITORY: -->
-## Why?
+## Why I made this repository
 
-I wanted to be the so called *"best"* coder in Singapore hehe. 
-
+Just to see if anyone can make a *"better"* profile readme.md than me.
 
 <!-- CONTACT -->
 ## Contact
