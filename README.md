@@ -17,14 +17,9 @@
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents</summary>
-  <ol>
-    <li>
-      <a href="https://github.com/AmiiHub/PldHacking">Favourite repository 1</a>
-      <ul>
-        <li><a href="https://github.com/AmiiHub/amiihub.github.io">Favourite repository 2</a></li>
-      </ul>
-        <li><a href="">Gmail</a></li>
-    
+  * About me
+  * Why I made this repository
+  * Contact
   </ol>
 </details>
 
