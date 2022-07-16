@@ -5,7 +5,7 @@
     <img src="https://avatars.githubusercontent.com/u/105401901?v=4" alt="Logo" width="80" height="80">
   </a>
 
-  <h3 align="center">AmiiHub</h3>
+  <h3 align="center">Hello there! I'm:</h3>
 
   <p align="center">
     Singapore's best "coder"!
