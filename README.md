@@ -8,7 +8,7 @@
   <h3 align="center">Hello there!</h3>
 
   <p align="center">
-    Singapore's best *coder*!
+    Singapore's best "coder"!
   </p>
 </div>
 
