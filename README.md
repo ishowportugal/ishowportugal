@@ -41,6 +41,8 @@ Of course, feel free to clone this repository or use it as a "template" for your
 
 [![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham&show_icons=true&custom_title=Stats:)](https://github.com/anuraghazra/github-readme-stats)
 
+Im aiming for  the **s+** rank on my stat as it is the highest rank! SHHHH don't tell anyone!
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- WHY I MADE A README>MD LIKE THIS: -->
