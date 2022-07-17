@@ -14,7 +14,7 @@
   </p>
 </div>
 
-[![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+<h3 align="center">[![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
