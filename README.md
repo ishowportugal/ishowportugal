@@ -31,7 +31,7 @@
 
 
 <!-- ABOUT ME -->
-## About me:
+## 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮:
 
 Hello there! Im Amiyaz a.k.a AmiiHub. I specialise in C++, HTML, and CSS. I even have a website: https://amiihub.github.io/
 
@@ -40,12 +40,12 @@ Of course, feel free to clone this repository or use it as a "template" for your
 
 
 <!-- WHY I MADE A README>MD LIKE THIS: -->
-## Why I made a readme.md like this:
+## 𝓦𝓱𝔂 𝓘 𝓶𝓪𝓭𝓮 𝓪 𝓻𝓮𝓪𝓭𝓶𝓮.𝓶𝓭 𝓵𝓲𝓴𝓮 𝓽𝓱𝓲𝓼:
 
 Just to see if anyone can make a *"better"* profile readme.md than me.
 
 <!-- CONTACTS -->
-## Contacts:
+## 𝓒𝓸𝓷𝓽𝓪𝓬𝓽𝓼:
 
 AmiiHub on GitHub - [@AmiyazMiracle](https://twitter.com/AmiyazMiracle) - mohamadamiyaz@gmail.com
 
