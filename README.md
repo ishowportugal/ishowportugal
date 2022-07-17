@@ -13,8 +13,9 @@
     Welcome to my GitHub profile!
   </p>
 </div>
-
-
+<!-- MY GITHUB STATS -->
+<summary>My GitHub stats:</summary>
+[![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -52,3 +53,5 @@ AmiiHub on GitHub - [@AmiyazMiracle](https://twitter.com/AmiyazMiracle) - mohama
 
 
 My readme.md repository link if you want to fork it to use it for your own readme.md: ![Best GitHub README.md!](https://github.com/AmiiHub/AmiiHub)
+
+
