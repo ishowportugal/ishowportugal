@@ -35,7 +35,7 @@ Hello there! Im Amiyaz a.k.a AmiiHub. I specialise in C++, HTML, and CSS. I even
 
 Of course, feel free to clone this repository or use it as a "template" for your own readme.md but *don't forget to credit me for it* 
 
-[![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham&show_icons=true&custom_title=AmiiHub)](https://github.com/anuraghazra/github-readme-stats)
+[![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham&show_icons=true&custom_title=Coding master)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=gotham&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
