@@ -51,4 +51,4 @@ AmiiHub on GitHub - [@AmiyazMiracle](https://twitter.com/AmiyazMiracle) - mohama
 
 
 
-My readme.md repository link if you want to fork it to use it for your own readme.md: ![Best GitHub Readme.md!](https://github.com/AmiiHub/AmiiHub)
+My readme.md repository link if you want to fork it to use it for your own readme.md: ![Best GitHub README.md!](https://github.com/AmiiHub/AmiiHub)
