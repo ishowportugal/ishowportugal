@@ -15,7 +15,7 @@
 </div>
 <!-- MY GITHUB STATS -->
 <summary>My GitHub stats:</summary>
-[![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- TABLE OF CONTENTS -->
 <details>
