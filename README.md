@@ -13,11 +13,6 @@
     Welcome to my GitHub profile!
   </p>
 </div>
-
-<!-- MY GITHUB STATS -->
-<details>
-  <summary>My GitHub Stats:</summary>
-  [![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub)](https://github.com/anuraghazra/github-readme-stats)
  
 <!-- TABLE OF CONTENTS -->
 <details>
@@ -40,7 +35,8 @@ Hello there! Im Amiyaz a.k.a AmiiHub. I specialise in C++, HTML, and CSS. I even
 
 Of course, feel free to clone this repository or use it as a "template" for your own readme.md but *don't forget to credit me for it* 
 
-
+[![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub)](https://github.com/anuraghazra/github-readme-stats)
 
 <!-- WHY I MADE A README>MD LIKE THIS: -->
 ## 𝓦𝓱𝔂 𝓘 𝓶𝓪𝓭𝓮 𝓪 𝓻𝓮𝓪𝓭𝓶𝓮.𝓶𝓭 𝓵𝓲𝓴𝓮 𝓽𝓱𝓲𝓼:
