@@ -3,8 +3,8 @@
 <!-- README.MD LOGO -->
 <br />
 <div align="center">
-  <a href="https://media.giphy.com/media/j9relKZx6W992N4VNG/giphy-downsized-large.gif">
-   <img src="https://media.giphy.com/media/j9relKZx6W992N4VNG/giphy-downsized-large.gif" alt="Logo" width="80" height="80">
+  <a href="https://amiihub.github.io/">
+   <img src="https://avatars.githubusercontent.com/u/105401901?v=4" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!</h3>
