@@ -14,7 +14,7 @@
   </p>
 </div>
 
-<h3 align="center">https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham(https://github.com/anuraghazra/github-readme-stats)</h3>
+<h3 align="center">https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham</h3>
 
 <!-- TABLE OF CONTENTS -->
 <details>
