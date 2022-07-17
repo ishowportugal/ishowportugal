@@ -31,7 +31,10 @@
 <!-- ABOUT ME -->
 ## 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮:
 
-Hello there! Im Amiyaz a.k.a AmiiHub. I specialise in C++, HTML, and CSS. Feel free to ask me any questions regarding coding; I will try my best to help you 😄
+Hello there! Im Amiyaz a.k.a AmiiHub. I specialise in C++, HTML, and CSS. Feel free to ask me any questions regarding coding; I will try my best to help you!😄
+
+### My Website:
+Just click on my readme logo to go to my website!
 
 Of course, feel free to clone this repository or use it as a "template" for your own readme.md but *don't forget to credit me for it* 
 
