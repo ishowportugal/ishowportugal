@@ -3,8 +3,8 @@
 <!-- README.MD LOGO -->
 <br />
 <div align="center">
-  <a href="https://avatars.githubusercontent.com/u/105401901?v=4">
-   <img src="https://avatars.githubusercontent.com/u/105401901?v=4" alt="Logo" width="80" height="80">
+  <a href="file:///C:/Users/HappyOne/Downloads/AmiiHub_LOGO.gif">
+   <img src="file:///C:/Users/HappyOne/Downloads/AmiiHub_LOGO.gif" alt="Logo" width="80" height="80">
   </a>
 
   <h3 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞!</h3>
