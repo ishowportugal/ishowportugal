@@ -18,9 +18,8 @@
 <details>
   <summary>My GitHub Stats:</summary>
   [![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub)](https://github.com/anuraghazra/github-readme-stats)
-
-  
-  <!-- TABLE OF CONTENTS -->
+ 
+<!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents:</summary>
   
