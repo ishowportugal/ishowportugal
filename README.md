@@ -2,9 +2,8 @@
 
 ![AmiiHubREADMEBanner](https://user-images.githubusercontent.com/105401901/179960392-5f7632e6-f4b6-4de8-a445-4a7f90f86c1f.png)
 
-   <h1 align="center">𝐇𝐞𝐥𝐥𝐨 𝐭𝐡𝐞𝐫𝐞! Welcome to my GitHub profile!</h1>
- 
- 
+
+
 <!-- TABLE OF CONTENTS -->
 <details>
   <summary>Table of Contents:</summary>
