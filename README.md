@@ -27,9 +27,6 @@ Hello there! Im Amiyaz a.k.a AmiiHub. I specialise in C++, HTML, and CSS. Feel f
 ### 𝓜𝔂 𝔀𝓮𝓫𝓼𝓲𝓽𝓮:
 Just click on my readme logo to go to my website!
 
-
-Of course, feel free to clone this repository or use it as a "template" for your own readme.md but *don't forget to credit me for it* 
-
 [![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham&show_icons=true&custom_title=Stats:)](https://github.com/anuraghazra/github-readme-stats)
 
 Im aiming for  the **s+** rank on my stat as it is the highest rank! SHHHH don't tell anyone!
@@ -75,6 +72,9 @@ Want to make a github README.md like me? Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+Of course, feel free to clone this repository or use it as a "template" for your own readme.md but *don't forget to credit me for it* 
+
 
 
 My readme.md repository link if you want to fork it to use it for your own readme.md: ![Best GitHub README.md!](https://github.com/AmiiHub/AmiiHub)
