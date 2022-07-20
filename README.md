@@ -34,7 +34,7 @@ Of course, feel free to clone this repository or use it as a "template" for your
 
 Im aiming for  the **s+** rank on my stat as it is the highest rank! SHHHH don't tell anyone!
 
-## 💬 Languages:
+## 💬 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘:
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=javascript&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
@@ -42,14 +42,14 @@ Im aiming for  the **s+** rank on my stat as it is the highest rank! SHHHH don't
 ![CSS3](https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white)
 ![C++](https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white)
 
-## 💻 IDEs:
+## 💻 𝘐𝘋𝘌𝘴:
 
 ![Eclipse](https://img.shields.io/badge/Eclipse-FE7A16.svg?style=for-the-badge&logo=Eclipse&logoColor=white)&nbsp;
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)&nbsp;
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)&nbsp;
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)&nbsp;
 
-## 🛠 Developer Tools:
+## 🛠 𝔻𝕖𝕧𝕖𝕝𝕠𝕡𝕖𝕣 𝕋𝕠𝕠𝕝𝕤:
 
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-000000?style=for-the-badge&logo=github&logoColor=white)
