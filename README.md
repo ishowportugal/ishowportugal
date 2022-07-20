@@ -1,6 +1,6 @@
 <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
 
-![AmiiHubREADMEBanner](https://user-images.githubusercontent.com/105401901/179960392-5f7632e6-f4b6-4de8-a445-4a7f90f86c1f.png)
+![AmiiHubREADMEBanner](https://user-images.githubusercontent.com/105401901/179960392-5f7632e6-f4b6-4de8-a445-4a7f90f86c1f.png)(https://www.canva.com/)
 
 
 
