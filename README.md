@@ -31,7 +31,7 @@ Just click on my readme logo to go to my website!
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmiiHub&theme=gotham&hide_border=false)<br/>
 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=AmiiHub&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmiiHub&margin-w=8&theme=gotham)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 
