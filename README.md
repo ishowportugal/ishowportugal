@@ -21,7 +21,9 @@
 <!-- ABOUT ME -->
 ## 𝓐𝓫𝓸𝓾𝓽 𝓶𝓮:
 
-Hello there! Im Amiyaz a.k.a AmiiHub. I specialise in C++, HTML, and CSS. Feel free to ask me any questions regarding coding; I will try my best to help you!😄
+Hello there! Im Amiyaz a.k.a AmiiHub. I am the expert when it comes to customizing your laptop(be it macOS, Windows or Linux). Seriously, someone should pay me for customizing laptops for your own preference. 
+
+Feel free to ask me any questions regarding coding; I will try my best to help you!😄
 
 <!-- MY WEBSITE -->
 ### 𝓜𝔂 𝔀𝓮𝓫𝓼𝓲𝓽𝓮:
