@@ -29,7 +29,6 @@ Just click on my readme logo to go to my website!
 
 [![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham&show_icons=true&custom_title=Stats:)](https://github.com/anuraghazra/github-readme-stats)
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmiiHub&theme=gotham&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=gotham&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&langs_count=5&theme=gotham)]()
 [![trophy](https://github-profile-trophy.vercel.app/?username=AmiiHub&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
