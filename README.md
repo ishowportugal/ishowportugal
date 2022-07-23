@@ -28,8 +28,10 @@ Hello there! Im Amiyaz a.k.a AmiiHub. I specialise in C++, HTML, and CSS. Feel f
 Just click on my readme logo to go to my website!
 
 [![AmiiHub's GitHub stats!](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham&show_icons=true&custom_title=Stats:)](https://github.com/anuraghazra/github-readme-stats)
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&langs_count=5&theme=gotham)]()
+[![trophy](https://github-profile-trophy.vercel.app/?username=AmiiHub&margin-w=8)](https://github.com/ryo-ma/github-profile-trophy)
 
-Im aiming for  the **s+** rank on my stat as it is the highest rank! SHHHH don't tell anyone!
+
 
 ## 💬 𝕷𝖆𝖓𝖌𝖚𝖆𝖌𝖊𝖘:
 
