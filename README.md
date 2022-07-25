@@ -84,6 +84,6 @@ Want to make a github README.md like me? Here are some ideas to get you started:
 
 Of course, feel free to clone this repository or use it as a "template" for your own readme.md but *don't forget to credit me for it* 
 
+![](./profile-3d-contrib/profile-night-rainbow.svg)
 
-
-My readme.md repository link if you want to fork it to use it for your own readme.md: ![Best GitHub README.md!](https://github.com/AmiiHub/AmiiHub)
+My readme.md repository link if you want to fork it to use it for your own readme.md: ![Best GitHub README.md!](https://github.com/AmiiHub/AmiiHub
