@@ -84,7 +84,7 @@
 <a href="https://AmiiHub.wrapped.run"><b>GitHub Wrapped</b></a>
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=gotham"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=gotham"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmiiHub&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/AmiiHub/Cplusplus-is-so-easy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&layout=compact&theme=gotham">
