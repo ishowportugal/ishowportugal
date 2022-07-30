@@ -79,19 +79,16 @@
 <img src="https://media.giphy.com/media/IP7sarl7C5lSFCw9rG/giphy.gif"  width="100px" height="100px"></p>
 <!--GITHUBWRAPPED / 🌐https://github.com/neat-run/wrapped -->
 <p align="center">
-<a href="https://trinib.wrapped.run"><b>GitHub Wrapped</b></a>
+<a href="https://AmiiHub.wrapped.run"><b>GitHub Wrapped</b></a>
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=gotham"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&layout=compact&theme=merko">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&layout=compact&theme=gotham">
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=Cplusplus-is-so-easy&theme=gotham">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
-<p align="center">
-<a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
-<!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
   <a href="https://github.com/AmiiHub?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a><a href="https://github.com/trinib?tab=followers"><a href="https://github.com/trinib?tab=followers">
@@ -105,7 +102,7 @@
 <p align="center">
 <img src="https://i.imgur.com/x1KbuCq.gif" width="500">
 <!--🐍📈SNAKEGRAPH / 🌐WEBSITE: https://github.com/Platane/snk -->
-<img src="https://raw.githubusercontent.com/trinib/trinib/output/github-contribution-grid-snake.svg" width="100%">
+<img src="https://raw.githubusercontent.com/AmiiHub/AmiiHub/output/github-contribution-grid-snake.svg" width="100%">
 <!--📉METRICS / 🌐WEBSITE: https://github.com/lowlighter/metrics -->
 <h4 align="right">
 <details><summary><b>𝓟&nbsp;𝓡&nbsp;𝓞&nbsp;𝓕&nbsp;𝓘&nbsp;𝓛&nbsp;𝓔&nbsp;&nbsp; 𝓜&nbsp;𝓔&nbsp;𝓣&nbsp;𝓡&nbsp;𝓘&nbsp;𝓒&nbsp;𝓢<img src="https://media.giphy.com/media/mBYkXvLxkHZFmqBHIC/giphy.gif" width=50px height=40px></b></summary>
