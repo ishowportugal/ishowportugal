@@ -82,18 +82,18 @@
 <a href="https://trinib.wrapped.run"><b>GitHub Wrapped</b></a>
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=trinib&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=merko"><img src="https://github-readme-streak-stats.herokuapp.com?user=trinib&theme=merko&date_format=M%20j%5B%2C%20Y%5D">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=trinib&layout=compact&theme=merko">
+<a href="https://github.com/trinib/AdGuard-WireGuard-Unbound-Cloudflare"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&layout=compact&theme=merko">
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=trinib&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=AdGuard-WireGuard-Unbound-DNScrypt&theme=merko">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
 <a href="https://stackoverflow.com/users/14602915/trinib"><img src="https://github-readme-stackoverflow.vercel.app/?userID=14602915&theme=dark">
 <!--📛BADGES / 🌐WEBSITE: https://github.com/DenverCoder1/custom-icon-badges -->
 <p align="center">
-  <a href="https://github.com/trinib?tab=repositories&sort=stargazers">
+  <a href="https://github.com/AmiiHub?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a><a href="https://github.com/trinib?tab=followers"><a href="https://github.com/trinib?tab=followers">
     <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/trinib?color=23960c&labelColor=188207&style=for-the-badge&logo=person-add&label=Followers&logoColor=white"/></a>
 <!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
@@ -386,7 +386,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Saturday, July 30th, 2022, 5:52:01 AM</b>
+<i>Last refresh</i>: <b>Saturday, July 30th, 2022, 6:22 PM Singapore Time</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <!-- 
@@ -433,7 +433,7 @@ https://github.com/wei/pull
 -->                                                                                                        
 
 <!--
-**trinib/trinib** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AmiiHub/AmiiHub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
