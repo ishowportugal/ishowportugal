@@ -136,65 +136,6 @@
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 
-
-Having fun? Ask a friend to play next move to get the next turn !
-
-<details>
-  <summary>How it works</summary>
-When you click on a link it will submit a new issue with the desired move, create the issue and a GitHub action is triggered, which in turn runs a small python script that performs the specified movement, updates this README file and commits the changes.
-</details>
-
-
-<details>
-  <summary>Last 5 moves in this game</summary>
-<!-- BEGIN LAST MOVES -->
-
-| Move | Author |
-| :--: | :----- |
-| `F3` to `E5` | [ @SquaredStudios-MC](https://github.com/SquaredStudios-MC) |
-| `A7` to `A5` | [ @UserUNP](https://github.com/UserUNP) |
-| `G1` to `F3` | [ @FranGarcia94](https://github.com/FranGarcia94) |
-| `E7` to `E5` | [ @trinib](https://github.com/trinib) |
-| `E2` to `E4` | [ @timguy](https://github.com/timguy) |
-
-<!-- END LAST MOVES -->
-</details>
-
-<details>
-  <summary>Top 10 most moves across all games</summary>
-
-</details>
-</details><h5 align="center">
-  </tr>
- </table>
-      
-
-
-<details>
-  <summary>Last 5 moves in this game</summary>
-<!-- BEGIN LAST MOVES2 -->
-
-| Move | Author |
-| :--: | :----- |
-| `3` |  [ @RedCommand-dev](https://github.com/RedCommand-dev) | |
-| `4` |  [ @bot-beep-boop](https://github.com/bot-beep-boop) | |
-| `3` |  [ @PriestlyAdejo](https://github.com/PriestlyAdejo) | |
-| `5` |  [ @trinib](https://github.com/trinib) | |
-| `4` |  [ @BolaGhaly](https://github.com/BolaGhaly) | |
-
-<!-- END LAST MOVES2 -->
-</details>
-
-<details>
-  <summary>Top 10 most moves across all games</summary>
-
-</details>
-</details>
-</details><h5 align="center">
-  </tr>
- </table>
-      
-
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <p align="center">
