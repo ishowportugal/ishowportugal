@@ -10,13 +10,12 @@
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 <!--📏LINE-->
 <img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!-- I'm Amiyaz!-->
-<p align="center">
 <!--🖼️ILOVEOPENSOURCE-->
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <a href="https://amiihub.github.io/"><img src="https://avatars.githubusercontent.com/u/105401901?v=4" </a>
+<img src="http://fla.fg-a.com/flags/animated-singapore-flag-2.gif" A GitHub user based in Singapore
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
