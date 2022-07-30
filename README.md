@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://www.youtube.com/watch?v=JQGRg8XBnB4"><img src="https://avatars.githubusercontent.com/u/105401901?v=4" </a>
+<a href="https://amiihub.github.io/"><img src="https://avatars.githubusercontent.com/u/105401901?v=4" </a>
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
@@ -64,7 +64,7 @@
 <p align="center">
 <b>FUN FACT🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
-<i>❝All the domain names such as Google, Log In or Sign Up were free until 1995, but now everyone has to pay for every new domain name.❞</i>
+<i>❝My amazing website:.❞</i>
 <!--ENDS_HERE_QUOTE_README-->
 <!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
 <p align="center">
