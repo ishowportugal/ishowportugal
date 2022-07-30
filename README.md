@@ -15,7 +15,6 @@
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <a href="https://amiihub.github.io/"><img src="https://avatars.githubusercontent.com/u/105401901?v=4" </a>
-<img src="http://fla.fg-a.com/flags/animated-singapore-flag-2.gif" A GitHub user based in Singapore
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
