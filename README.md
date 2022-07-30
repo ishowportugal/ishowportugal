@@ -220,20 +220,6 @@ When you click on a link it will submit a new issue with the desired move, creat
 
 <details>
   <summary>Top 10 most moves across all games</summary>
-<!-- BEGIN TOP MOVES -->
-
-| Total moves |  User  |
-| :---------: | :----- |
-| 20 | [@trinib](https://github.com/trinib) |
-| 14 | [@JayantGoel001](https://github.com/JayantGoel001) |
-| 3 | [@Sabyasachi-Seal](https://github.com/Sabyasachi-Seal) |
-| 1 | [@teotoniojr](https://github.com/teotoniojr) |
-| 1 | [@timguy](https://github.com/timguy) |
-| 1 | [@FranGarcia94](https://github.com/FranGarcia94) |
-| 1 | [@UserUNP](https://github.com/UserUNP) |
-| 1 | [@SquaredStudios-MC](https://github.com/SquaredStudios-MC) |
-
-<!-- END TOP MOVES -->
 
 </details>
 </details><h5 align="center">
@@ -343,7 +329,7 @@ Join the Word Cloud Board :cloud: :pencil2:
 </h4>
 <!--🏆TROPHY / 🌐WEBSITE: https://github.com/ryo-ma/github-profile-trophy -->
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=trinib&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
+<img src="https://github-profile-trophy.vercel.app/?username=AmiiHub&theme=tokyonight&no-frame=true&row=1&&margin-w=30&no-bg=true">
 <!--🖼️⭐🔱STARRED/FORK-->
 <h4 align="right">
  
@@ -354,8 +340,8 @@ Join the Word Cloud Board :cloud: :pencil2:
    <img src="https://c.tenor.com/XSbD902n1fwAAAAi/rennen-fast.gif" width="50">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
   </tr>
   <tr>
-    <td><p align="center"><a href="https://github.com/trinib?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
-    <td><p align="center"><a href="https://github.com/trinib/trinib/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
+    <td><p align="center"><a href="https://github.com/AmiiHub?tab=stars"><b>MY STARRED REPOS <br>AND TOPICS</b></a>
+    <td><p align="center"><a href="https://github.com/AmiiHub/AmiiHub/edit/main/README.md"><b>FORK PROFILE WITH <br>EASY EDITING</b></a>
   </tr>
  </table>
 <!--📏LINE-->
