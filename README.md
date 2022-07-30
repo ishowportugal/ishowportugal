@@ -29,7 +29,12 @@ Feel free to ask me any questions regarding coding; I will try my best to help y
 ### 𝓜𝔂 𝔀𝓮𝓫𝓼𝓲𝓽𝓮:
 Just click on my readme logo to go to my website!
 
-![](https://raw.githubusercontent.com/AmiiHub/github-stats/master/generated/overview.svg#gh-dark-mode-only)
+<!--
+https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
+-->
+<a href="https://github.com/jstrieb/github-stats">
+<img src="https://github.com/AmiiHub/github-stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
+<img src="https://github.com/AmiiHub/github-stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
 ![](https://github-readme-streak-stats.herokuapp.com/?user=AmiiHub&theme=gotham&hide_border=false)<br/>
 
 
