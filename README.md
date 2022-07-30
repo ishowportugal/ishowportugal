@@ -29,7 +29,7 @@ Feel free to ask me any questions regarding coding; I will try my best to help y
 ### 𝓜𝔂 𝔀𝓮𝓫𝓼𝓲𝓽𝓮:
 Just click on my readme logo to go to my website!
 
-[![Amiyaz's Github Stats](https://github-readme-stats.vercel.app/api?username=AmiiHub&custom_title=Stats:)](https://github.com/anuraghazra/github-readme-stats)
+[![Amiyaz's Github Stats](https://github-readme-stats.vercel.app/api?username=AmiiHub&theme=gotham&custom_title=Stats:)](https://github.com/anuraghazra/github-readme-stats)
 
 ![](https://raw.githubusercontent.com/AmiiHub/readme-stats/master/generated/languages.svg#gh-dark-mode-only)
 
