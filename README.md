@@ -87,8 +87,6 @@
 <p align="center">
   <a href="https://github.com/AmiiHub?tab=stars">
     <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=55960c&labelColor=488207&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/trinib"/></a><a href="https://github.com/AmiiHub?tab=followers"><a href="https://github.com/AmiiHub?tab=followers">
-<!--👀VIEWS / 🌐WEBSITE: https://github.com/antonkomarev/github-profile-views-counter -->
-<p align="center">
 <img src="https://komarev.com/ghpvc/?username=AmiiHub&color=0E9C47&style=for-the-badge">
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
 <img src="https://camo.githubusercontent.com/f0efb52bcfe78a5f836ead3f0bee6596dd5345c7a7cefc6c2cf9cd0892688254/68747470733a2f2f7472696e69622d67726170682e6865726f6b756170702e636f6d2f67726170683f757365726e616d653d7472696e6962267468656d653d72656163742d6461726b26637573746f6d5f7469746c653d7e2532307e2532307e2532304d7925323050726f66696c65253230436f6e747269627574696f6e25323047726170682532307e2532307e2532307e26686964655f626f726465723d7472756526636f6c6f723d303064363638266c696e653d30306436363826706f696e743d386230303765" width="100%">
