@@ -14,7 +14,6 @@
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://amiihub.github.io/"><img src="https://avatars.githubusercontent.com/u/105401901?v=4" </a>
 <p align="center">
  <img width="100px" src="https://avatars.githubusercontent.com/u/105401901?v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">A GitHub user based in Singapore 🇸🇬</h2>
