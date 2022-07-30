@@ -9,7 +9,7 @@
 <img src="https://i.imgur.com/AZa5yxa.png" height="120" width="600">
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
-<a href="https://www.youtube.com/watch?v=JQGRg8XBnB4"><img src="https://user-images.githubusercontent.com/105401901/181905897-95b03532-f62e-4d67-8ce8-086ec65e30ec.png" height="130" width="300"></a>
+<a href="https://www.youtube.com/watch?v=JQGRg8XBnB4"><img src="https://user-images.githubusercontent.com/105401901/181905897-95b03532-f62e-4d67-8ce8-086ec65e30ec.png" </a>
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
