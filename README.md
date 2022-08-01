@@ -2,7 +2,7 @@
 
 <p align="center">
 
-    Currently viewing: Best Github README!
+    Currently viewing: Best GitHub README!
 
 </p>
 
