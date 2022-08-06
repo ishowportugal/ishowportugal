@@ -87,7 +87,8 @@
 <img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=gotham"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmiiHub&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<a href="https://github.com/AmiiHub/Cplusplus-is-so-easy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&layout=compact&theme=gotham">
+<a href="https://github.com/AmiiHub/Cplusplus-is-so-easy">
+![image](https://user-images.githubusercontent.com/105401901/183248575-ecb9afae-606b-4295-9a1c-5e8626bb610f.png)
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=Cplusplus-is-so-easy&theme=gotham">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
