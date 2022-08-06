@@ -194,7 +194,7 @@
 <!--RECENT_ACTIVITY:end-->
 <p align="right">
 <!--RECENT_ACTIVITY:last_update-->
-<i>Last refresh</i>: <b>Saturday, July 30th, 2022, 6:22 PM Singapore Time</b>
+<i>Last edit</i>: <b>Saturday, July 30th, 2022, 6:22 PM Singapore Time</b>
 <!--RECENT_ACTIVITY:last_update_end-->
   
 <!-- 
