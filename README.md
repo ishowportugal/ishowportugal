@@ -89,7 +89,7 @@
 <p align="center">
 <a href="https://github.com/AmiiHub/Cplusplus-is-so-easy">
 
-![image](https://user-images.githubusercontent.com/105401901/183248607-54374711-3400-4a55-90c2-7fa06ef04027.png)
+![image](https://user-images.githubusercontent.com/105401901/183248689-da87efbf-81a4-48e0-b975-224ac36992e9.png)
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=Cplusplus-is-so-easy&theme=gotham">
