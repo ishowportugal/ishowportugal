@@ -15,7 +15,7 @@
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <p align="center">
- <h2 align="center">A GitHub user based in Singapore 🇸🇬</h2>
+ <h2 align="center">I'm Amiyaz, a GitHub user based in Singapore 🇸🇬</h2>
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/parrots/parrot-trinidadandtobago.gif" height="50" width="50">
