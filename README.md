@@ -24,8 +24,8 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=317dcfhkeq7bemuv6yu5ee76f77y&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
-<a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317dcfhkeq7bemuv6yu5ee76f77y&cover_image=true&theme=default" height="130" width="300"></a>
 
+    
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg"  width="600">
