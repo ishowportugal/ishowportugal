@@ -86,9 +86,7 @@
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/AmiiHub/Cplusplus-is-so-easy">
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=gotham&layout=compact">
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=Cplusplus-is-so-easy&theme=gotham&layout=compact">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
