@@ -17,11 +17,11 @@
 <p align="center">
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif" height="50" width="50">
-<img src="https://raw.githubusercontent.com/seanprashad/slackmoji/master/emoji/blob/blob-dundundun-gif.gif" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg"  width="600">
