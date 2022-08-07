@@ -82,15 +82,15 @@
 <a href="https://AmiiHub.wrapped.run"><b>GitHub Wrapped</b></a>
 <!--📊STATSGRAPH / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=gotham"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmiiHub&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
+<img src="https://github-readme-stats.vercel.app/api?username=AmiiHub&show_icons=true&theme=gotham&layout=compact"><img src="https://github-readme-streak-stats.herokuapp.com?user=AmiiHub&theme=gotham&date_format=M%20j%5B%2C%20Y%5D">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
 <a href="https://github.com/AmiiHub/Cplusplus-is-so-easy">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=gotham&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--✨REPO / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=Cplusplus-is-so-easy&theme=gotham">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=AmiiHub&repo=Cplusplus-is-so-easy&theme=gotham&layout=compact">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
