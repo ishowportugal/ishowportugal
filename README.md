@@ -15,7 +15,6 @@
 <!--🎵SPOTIFY / 🌐WEBSITE: https://github.com/kittinan/spotify-github-profile -->
 <p align="center">
 <p align="center">
- <img width="100px" src="https://avatars.githubusercontent.com/u/105401901?v=4" align="center" alt="GitHub Readme Stats" />
  <h2 align="center">A GitHub user based in Singapore 🇸🇬</h2>
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
