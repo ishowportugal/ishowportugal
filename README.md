@@ -21,15 +21,14 @@
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
-<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
-    
-- My Amazing osu! skin: [Soda v1.5](https://www.mediafire.com/download/aw19lrj2pqpqc4z/Soda+v1.5.osk)
-![Soda v1.5 preview(centipede osu beatmap)](https://user-images.githubusercontent.com/105401901/186900059-46c6570d-af52-4820-80c1-f425cfd67a7e.jpg)
-With this osu! skin, numbers are replaced with stars which "kind of" increase difficulty level.
- 
-    
+<img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">    
 <p align="center">
 <a href="https://github.com/trinib/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317dcfhkeq7bemuv6yu5ee76f77y&cover_image=true&theme=novatorem"></a>    
+
+ - My Amazing osu! skin: [Soda v1.5](https://www.mediafire.com/download/aw19lrj2pqpqc4z/Soda+v1.5.osk)
+![Soda v1.5 preview(centipede osu beatmap)](https://user-images.githubusercontent.com/105401901/186900059-46c6570d-af52-4820-80c1-f425cfd67a7e.jpg)
+With this osu! skin, numbers are replaced with stars which "kind of" increase difficulty level.   
+    
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
 <img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg"  width="600">
