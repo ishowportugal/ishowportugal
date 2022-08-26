@@ -17,6 +17,7 @@
 <p align="center">
 <!--🦜PARROTSEMOJI / 🌐WEBSITE: https://github.com/seanprashad/slackmoji/ -->
 <p align="center">
+- My Amazing osu! skin: [Soda v1.5](https://www.mediafire.com/download/aw19lrj2pqpqc4z/Soda+v1.5.osk)
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
 <img src="https://github.com/seanprashad/slackmoji/blob/master/emoji/meow/meow-queen.png" height="50" width="50">
