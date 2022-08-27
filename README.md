@@ -1,13 +1,12 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 
+## IMPORTANT NOTICE: Due to my end-of-year exams, all of my repositories and projects will be put on hold with effect from September 26, 2022.
+
 <p align="center">
 
     Currently viewing: Best GitHub README!
 
 </p>
-
-
-## IMPORTANT NOTICE: Due to my end-of-year exams, all of my repositories and projects will be put on hold with effect from September 26, 2022.
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
