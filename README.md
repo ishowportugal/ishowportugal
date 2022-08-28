@@ -32,6 +32,7 @@ osu! skins which im currently using:
 ![Soda v1.5 preview(centipede osu beatmap)](https://user-images.githubusercontent.com/105401901/186900059-46c6570d-af52-4820-80c1-f425cfd67a7e.jpg)
 With this osu! skin, numbers are replaced with stars which "kind of" increase difficulty level.  
 - [Judiciousity](https://www.mediafire.com/file/vf34kg7h5qbsxtg/Judiciousity.osk/file)
+I only use this skin sometimes
 *self reminder: need to put screenshot of Judiciousity osu! skin here*
     
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
