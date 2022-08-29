@@ -1,6 +1,6 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 
-## IMPORTANT NOTICE: Due to my end-of-year exams, all of my repositories and projects will be put on hold with effect from September 26, 2022.
+## IMPORTANT NOTICE: Due to my end-of-year exams, all of my repositories and projects will be put on hold with effect from September 16, 2022.
 
 <p align="center">
 
