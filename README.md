@@ -27,13 +27,13 @@
 <p align="center">
 <a href="https://github.com/trinib/spotify-github-profile"><img src="https://spotify-github-profile.vercel.app/api/view?uid=317dcfhkeq7bemuv6yu5ee76f77y&cover_image=true&theme=novatorem"></a>    
 
-osu! skins which im currently using: 
+My favourite osu! skins: 
  - [Soda v1.5](https://www.mediafire.com/download/aw19lrj2pqpqc4z/Soda+v1.5.osk)
 ![Soda v1.5 preview(centipede osu beatmap)](https://user-images.githubusercontent.com/105401901/186900059-46c6570d-af52-4820-80c1-f425cfd67a7e.jpg)
 With this osu! skin, numbers are replaced with stars which "kind of" increase difficulty level.  
 - [Judiciousity](https://www.mediafire.com/file/vf34kg7h5qbsxtg/Judiciousity.osk/file)
 ![Judiciousity preview](https://user-images.githubusercontent.com/105401901/187102334-d62f9484-67d5-4656-aa7e-893b372c6a3e.png)
-I only use this skin sometimes
+
 
     
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
