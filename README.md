@@ -33,7 +33,8 @@ osu! skins which im currently using:
 With this osu! skin, numbers are replaced with stars which "kind of" increase difficulty level.  
 - [Judiciousity](https://www.mediafire.com/file/vf34kg7h5qbsxtg/Judiciousity.osk/file)
 I only use this skin sometimes
-*self reminder: need to put screenshot of Judiciousity osu! skin here*
+![Judiciousity preview](https://user-images.githubusercontent.com/105401901/187102334-d62f9484-67d5-4656-aa7e-893b372c6a3e.png)
+
     
 <!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
 <p align="center">
