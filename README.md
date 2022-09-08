@@ -31,7 +31,8 @@
     
 ![About me:](https://user-images.githubusercontent.com/105401901/189105150-9adfa404-8641-470d-a5b5-93d8bc192b1f.png)
 
-    My favourite osu! skins: 
+
+My favourite osu! skins: 
  - [Soda v1.5](https://www.mediafire.com/download/aw19lrj2pqpqc4z/Soda+v1.5.osk)
 ![Soda v1.5 preview(centipede osu beatmap)](https://user-images.githubusercontent.com/105401901/186900059-46c6570d-af52-4820-80c1-f425cfd67a7e.jpg)
 With this osu! skin, numbers are replaced with stars which "kind of" increase difficulty level.  
