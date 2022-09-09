@@ -199,6 +199,8 @@ With this osu! skin, numbers are replaced with stars which "kind of" increase di
   
 <!-- 
 
+![Social](https://user-images.githubusercontent.com/105401901/189334060-6f6ba505-c924-4eae-ad2b-1ab4b2d845a9.png)
+All my social is on my website: amiihub.github.io
 𝐈𝐅 𝐘𝐎𝐔 𝐑𝐄𝐀𝐂𝐇𝐄𝐃 𝐇𝐄𝐑𝐄 (C O N G R A T S 🎉🎈🎊) 
 
 𝐂𝐇𝐄𝐂𝐊 𝐎𝐔𝐓 𝐓𝐇𝐄𝐒𝐄:
