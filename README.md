@@ -43,12 +43,7 @@ With this osu! skin, numbers are replaced with stars which "kind of" increase di
 
 
 
-![breme](https://user-images.githubusercontent.com/105401901/185741319-d2cf7b33-463e-4a4f-b63d-1552526f207c.png)
 
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=footer&reversal=false&color=0:b579da,100:79da7f">
-<!--💬🃏FUNFACT / 🌐https://github.com/siddharth2016/quote-readme#update-your-readme -->
 <p align="center">
 <b>FUN FACT🤔 :</b>
 <!--STARTS_HERE_QUOTE_README-->
