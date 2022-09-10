@@ -179,7 +179,7 @@ How to use osu! skin:
 
 ![Social](https://user-images.githubusercontent.com/105401901/189334507-07103291-86bf-449c-98a1-3fe328be9621.png)
 
-All my social is on my website: amiihub.github.io
+All my social media is on my website: amiihub.github.io
 
 <!--🦶FOOTER-->
 
