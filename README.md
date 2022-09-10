@@ -194,6 +194,6 @@ All my social is on my website: amiihub.github.io
   
     
 ![amogus](https://user-images.githubusercontent.com/105401901/189480457-127b45da-3c65-497a-8429-302f32f7d7e1.png)   
-<!-- 
+
 
 
