@@ -38,7 +38,8 @@ My favourite osu! skins:
 With this osu! skin, numbers are replaced with stars which "kind of" increase difficulty level.  
 - [Judiciousity](https://www.mediafire.com/file/vf34kg7h5qbsxtg/Judiciousity.osk/file)
 ![Judiciousity preview](https://user-images.githubusercontent.com/105401901/187102334-d62f9484-67d5-4656-aa7e-893b372c6a3e.png)
-- ![Millihiore+Lite](https://user-images.githubusercontent.com/105401901/189477353-231e5a74-ffe7-4862-87b5-99e8770c90e8.png)
+- [Millihiore+Lite(click on the download button to download)](https://puu.sh/v9ewJ/66f0687a9f.osk)
+![Millihiore+Lite](https://user-images.githubusercontent.com/105401901/189477353-231e5a74-ffe7-4862-87b5-99e8770c90e8.png)
 
 
 
