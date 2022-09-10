@@ -42,19 +42,6 @@ With this osu! skin, numbers are replaced with stars which "kind of" increase di
 
 
 
-    
-<!--🖼️SVG BANNER / 🌐WEBSITE: https://github.com/Akshay090/svg-banners -->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/banner.svg"  width="600">
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
-<!--📰RSS / TAKE IMAGE FROM https://github.com/trinib/trinib/blob/main/.images/marquee.svg TO YOUR REPO AND EDIT IT-->
-<p align="center">
-<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/marquee.svg">
-<!--🎨CAPSULE / 🌐WEBSITES: https://github.com/kyechan99/capsule-render -->
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=shark&height=30&section=header&reversal=false&color=0:b579da,100:79da7f">
-<!--🤖ASCIIART / 🌐WEBSITES: https://asciiart.website/ & https://github.com/github/markup/issues/1440#issuecomment-803889380 -->
-<h4 align="center">
 
 ![breme](https://user-images.githubusercontent.com/105401901/185741319-d2cf7b33-463e-4a4f-b63d-1552526f207c.png)
 
