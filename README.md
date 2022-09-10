@@ -41,7 +41,7 @@ With this osu! skin, numbers are replaced with stars which "kind of" increase di
 - Millihiore+Lite
 ![Millihiore+Lite](https://user-images.githubusercontent.com/105401901/189477353-231e5a74-ffe7-4862-87b5-99e8770c90e8.png)
 All osu! skins can be downloaded [here:](https://www.mediafire.com/folder/3jz52vabvuxpf/Amiyaz's_Favourite_osu!_Skins)
-*To download, just click on the osu! skin which you want to use and download it
+To download, just click on the osu! skin which you want to use and download it
 
 How to use osu! skin:
 1) Open osu! folder through options
