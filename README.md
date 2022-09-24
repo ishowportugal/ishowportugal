@@ -1,6 +1,6 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 
-## IMPORTANT NOTICE: Due to my end-of-year exams, all of my repositories and projects will be put on hold with effect from September 16, 2022.
+IMPORTANT NOTICE: Due to my end-of-year exams, all of my repositories and projects will be put on hold with effect from September 16, 2022.
 
 <p align="center">
 
@@ -39,7 +39,7 @@ How my PC looks like:
 
 I know it looks unique right???
 
-My favourite osu! skins: 
+## My favourite osu! skins: 
  - Soda v1.5
 ![Soda v1.5 preview(centipede osu beatmap)](https://user-images.githubusercontent.com/105401901/186900059-46c6570d-af52-4820-80c1-f425cfd67a7e.jpg)
 With this osu! skin, numbers are replaced with stars which "kind of" increase difficulty level.  
@@ -50,7 +50,7 @@ With this osu! skin, numbers are replaced with stars which "kind of" increase di
 All osu! skins can be downloaded [here:](https://www.mediafire.com/folder/3jz52vabvuxpf/Amiyaz's_Favourite_osu!_Skins)
 To download, just click on the osu! skin which you want to use and download it
 
-How to use osu! skin:
+## How to use osu! skin:
 1) Open osu! folder through options
 2) Drag/copy and paste file into skins folder
 
