@@ -34,7 +34,7 @@
 ![About me:](https://user-images.githubusercontent.com/105401901/189105150-9adfa404-8641-470d-a5b5-93d8bc192b1f.png)
 
 How my PC looks like:
-![SUPERB](https://user-images.githubusercontent.com/105401901/192094546-ac8a71ba-df50-4dce-b464-f2ec5c07cd95.jpg)
+![YESSSSSSSSSSSSSSSSSSSSSSS](https://user-images.githubusercontent.com/105401901/192094598-c6211174-5c0a-4d60-a802-ef228c3329f1.jpg)
 I know it looks unique right???
 
 My favourite osu! skins: 
