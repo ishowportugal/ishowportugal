@@ -13,7 +13,7 @@
 
 ![tournamentbanner](https://user-images.githubusercontent.com/105401901/193236704-9dc6a1d0-c974-4050-9611-e92966960cc6.gif)
 
-![PROJECT SINGAPORE](https://user-images.githubusercontent.com/105401901/193264982-0b76ab62-24de-462f-b671-2135781e0f4a.png)
+![PROJECT SINGAPORE](https://user-images.githubusercontent.com/105401901/193265405-36b23edc-d588-4d05-bef1-4b82bb570052.png)
 
 
 
