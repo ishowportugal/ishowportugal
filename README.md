@@ -6,6 +6,7 @@
 
     Currently viewing: Best GitHub README!
 
+
 </p>
 
 [how to improve at osu](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
@@ -13,7 +14,7 @@
 
 ![tournamentbanner](https://user-images.githubusercontent.com/105401901/193236704-9dc6a1d0-c974-4050-9611-e92966960cc6.gif)
 
-![PROJECT SINGAPORE](https://user-images.githubusercontent.com/105401901/193265405-36b23edc-d588-4d05-bef1-4b82bb570052.png)
+![PROJECTSINGAPORE!](https://user-images.githubusercontent.com/105401901/193266356-8d059612-05d7-4257-9c9e-57379ab59919.png)
 
 
 
