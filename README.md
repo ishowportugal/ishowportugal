@@ -8,7 +8,8 @@
 
 </p>
 
-![osusupporter_MY](https://user-images.githubusercontent.com/105401901/190899446-08fdc2e7-ecd7-4fd8-b741-08b31ee413bf.png)
+![osuworldcup22](https://user-images.githubusercontent.com/105401901/193235743-4cfbd712-4d45-47d4-bdc0-bb239c045091.jpg)
+
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
