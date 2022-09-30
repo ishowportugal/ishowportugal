@@ -8,6 +8,7 @@
 
 </p>
 
+<p align="center">
 ![osuworldcup22](https://user-images.githubusercontent.com/105401901/193235743-4cfbd712-4d45-47d4-bdc0-bb239c045091.jpg)
 
 
