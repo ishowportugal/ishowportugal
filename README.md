@@ -8,8 +8,8 @@
 
 </p>
 
-<p align="center">
-![osuworldcup22](https://user-images.githubusercontent.com/105401901/193235743-4cfbd712-4d45-47d4-bdc0-bb239c045091.jpg)
+![tournamentbanner](https://user-images.githubusercontent.com/105401901/193236704-9dc6a1d0-c974-4050-9611-e92966960cc6.gif)
+
 
 
 <p align="center">
