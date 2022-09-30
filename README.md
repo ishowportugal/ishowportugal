@@ -8,6 +8,9 @@
 
 </p>
 
+[how to improve at osu](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+
 ![tournamentbanner](https://user-images.githubusercontent.com/105401901/193236704-9dc6a1d0-c974-4050-9611-e92966960cc6.gif)
 
 
