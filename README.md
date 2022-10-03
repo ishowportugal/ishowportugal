@@ -58,7 +58,7 @@ To download, just click on the osu! skin which you want to use and download it
 2) Drag/copy and paste file into skins folder
 
 ## Favourite osu beatmap:
-[![Watch the video](https://user-images.githubusercontent.com/105401901/193550340-e3d28f29-9921-4336-9e29-88f21d329ece.png)(https://www.youtube.com/watch?v=5d432cQoT-c&t=34s)
+[![Watch the video](https://user-images.githubusercontent.com/105401901/193550340-e3d28f29-9921-4336-9e29-88f21d329ece.png)](https://www.youtube.com/watch?v=5d432cQoT-c&t=34s)
 
 <p align="center">
 <b>FUN FACT🤔 :</b>
