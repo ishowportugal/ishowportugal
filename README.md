@@ -180,10 +180,7 @@ All my social media is on my website: amiihub.github.io
 <!--⚽️ACTIVITY / 🌐WEBSITE: https://github.com/Readme-Workflows/recent-activity -->
 <!--RECENT_ACTIVITY:start-->
 <!--RECENT_ACTIVITY:end-->
-<p align="right">
-<!--RECENT_ACTIVITY:last_update-->
-<i>Last edit</i>: <b>Saturday, July 30th, 2022, 6:22 PM Singapore Time</b>
-<!--RECENT_ACTIVITY:last_update_end-->
+
   
     
 ![amogus](https://user-images.githubusercontent.com/105401901/189480457-127b45da-3c65-497a-8429-302f32f7d7e1.png)   
