@@ -73,10 +73,6 @@ To download, just click on the osu! skin which you want to use and download it
 <p align="center">
 <img src="https://i.imgur.com/YCw47Dm.gif">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
-<p align="center">
-<a href="https://github.com/AmiiHub/Cplusplus-is-so-easy">
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmiiHub&theme=gotham&layout=compact">
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
 <!--📈ACTIVITYGRAPH / 🌐WEBSITE: https://github.com/Ashutosh00710/github-readme-activity-graph#customization -->
