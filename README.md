@@ -64,8 +64,6 @@ To download, just click on the osu! skin which you want to use and download it
 <!--STARTS_HERE_QUOTE_README-->
 <i>❝ The original name for the search engine Google was Backrub. It was renamed Google after the googol, which is the number one followed by 100 zeros. ❞</i>
 <!--ENDS_HERE_QUOTE_README-->
-<!--📏LINE-->
-<img src="https://i.imgur.com/dBaSKWF.gif" height="20" width="1000">
 <!--📙LANGUAGES / 🌐WEBSITE: https://github.com/anuraghazra/github-readme-stats -->
 <!--👨‍💻STACKOVERFLOW / 🌐WEBSITE: https://github.com/omidnikrah/github-readme-stackoverflow -->
 <p align="center">
