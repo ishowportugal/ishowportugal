@@ -10,7 +10,7 @@
 
 ## Welcome!
 
-![supporter_IL](https://user-images.githubusercontent.com/105401901/202437111-3533d041-5f15-4d06-b3cd-fd58690c97c5.jpg)
+![supporter_SG](https://user-images.githubusercontent.com/105401901/202438352-5ce17972-83c9-4a72-bdfd-447a422b428a.jpg)
 
 [how to improve at osu](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
