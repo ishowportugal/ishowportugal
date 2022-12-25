@@ -1,28 +1,14 @@
-<!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
+![Beige Minimalist Torn Paper Fashion Style Youtube Channel Art](https://user-images.githubusercontent.com/105401901/209466463-3bcde88d-1a05-4bb5-9418-9ab885b178b6.png)
 
+## Hi, there! 👋
 
-<p align="center">
-
-    Currently viewing: Best GitHub README!
-
-
-</p>
 
 **Forked OSiNT tools should only be used for educational/ethical purposes and not for malice intentions!!!**
 
 
-## Welcome!
+
 
 ![supporter_SG](https://user-images.githubusercontent.com/105401901/202438352-5ce17972-83c9-4a72-bdfd-447a422b428a.jpg)
-
-[how to improve at osu](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
-
-
-![tournamentbanner](https://user-images.githubusercontent.com/105401901/193236704-9dc6a1d0-c974-4050-9611-e92966960cc6.gif)
-
-![PROJECTSINGAPORE!](https://user-images.githubusercontent.com/105401901/193266356-8d059612-05d7-4257-9c9e-57379ab59919.png)
-
-
 
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
