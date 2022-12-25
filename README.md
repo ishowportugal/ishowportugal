@@ -1,5 +1,6 @@
 <!--💬GREETINGSTITLE / 🌐WEBSITE: https://github.com/denvercoder1/readme-typing-svg -->
 
+**OSiNT tools should only be used for educational/ethical purposes and not for malice intentions!!!**
 
 <p align="center">
 
