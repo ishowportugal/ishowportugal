@@ -1,4 +1,5 @@
-![Beige Minimalist Torn Paper Fashion Style Youtube Channel Art](https://user-images.githubusercontent.com/105401901/209466463-3bcde88d-1a05-4bb5-9418-9ab885b178b6.png)
+![Amiyaz's official github](https://user-images.githubusercontent.com/105401901/209466517-588e709c-4dc5-44ef-9757-ea76140b648a.png)
+
 
 ## Hi, there! 👋
 
