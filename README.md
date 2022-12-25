@@ -8,6 +8,9 @@
 
 </p>
 
+**Forked OSiNT tools should only be used for educational/ethical purposes and not for malice intentions!!!**
+
+
 ## Welcome!
 
 ![supporter_SG](https://user-images.githubusercontent.com/105401901/202438352-5ce17972-83c9-4a72-bdfd-447a422b428a.jpg)
