@@ -1,4 +1,4 @@
-![amiyaz'sofficialgithub](https://user-images.githubusercontent.com/105401901/209466578-b4adaa22-17fc-4653-8dcf-79ff8555ba3c.png)
+![GithubBanner](https://user-images.githubusercontent.com/105401901/209547532-3e8242c6-9180-4575-ae29-aa31a4f8a109.png)
 
 
 ## Hi, there! 👋
