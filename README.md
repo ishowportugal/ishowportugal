@@ -4,7 +4,7 @@
 ## Hi, there! 👋
 
 
-**Forked OSiNT tools should only be used for educational/ethical purposes and not for malice intentions!!!**
+**Forked OSiNT(Open-source intelligence) tools should only be used for educational/ethical purposes and not for malice intentions!!!**
 
 
 
