@@ -11,6 +11,9 @@
 
 ![supporter_SG](https://user-images.githubusercontent.com/105401901/202438352-5ce17972-83c9-4a72-bdfd-447a422b428a.jpg)
 
+Wanna gift someone NFT's? Use this template:![datemplate](https://user-images.githubusercontent.com/105401901/209798011-db61cae4-c20d-4f54-90b8-53a259733478.jpeg)
+
+
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&size=40&color=%2379A500&height=67&duration=3000&center=true&lines=%F0%9F%85%B6%F0%9F%86%81%F0%9F%85%B4%F0%9F%85%B4%F0%9F%86%83%F0%9F%85%B8%F0%9F%85%BD%F0%9F%85%B6%F0%9F%86%82">
 <!--📏LINE-->
