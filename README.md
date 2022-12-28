@@ -6,12 +6,13 @@
 
 **Forked OSiNT(Open-source intelligence) tools should only be used for educational/ethical purposes and not for malice intentions!!!**
 
+Wanna gift someone NFT's? Use this [template](https://drive.google.com/file/d/1li2XBz2oOJCRWnDthdqgO6I7QdiBAg_2/view?usp=sharing)
 
 
 
 ![supporter_SG](https://user-images.githubusercontent.com/105401901/202438352-5ce17972-83c9-4a72-bdfd-447a422b428a.jpg)
 
-Wanna gift someone NFT's? Use this [template](https://drive.google.com/file/d/1li2XBz2oOJCRWnDthdqgO6I7QdiBAg_2/view?usp=sharing)
+
 
 
 <p align="center">
