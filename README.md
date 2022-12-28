@@ -11,7 +11,7 @@
 
 ![supporter_SG](https://user-images.githubusercontent.com/105401901/202438352-5ce17972-83c9-4a72-bdfd-447a422b428a.jpg)
 
-Wanna gift someone NFT's? Use this template:![datemplate](https://user-images.githubusercontent.com/105401901/209798011-db61cae4-c20d-4f54-90b8-53a259733478.jpeg)
+Wanna gift someone NFT's? Use this [template](https://drive.google.com/file/d/1li2XBz2oOJCRWnDthdqgO6I7QdiBAg_2/view?usp=sharing)
 
 
 <p align="center">
