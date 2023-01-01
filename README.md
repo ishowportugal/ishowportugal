@@ -1,6 +1,6 @@
 ![GithubBanner](https://user-images.githubusercontent.com/105401901/209547532-3e8242c6-9180-4575-ae29-aa31a4f8a109.png)
 
-<h1 align="left">YOOOOO</h1>
+<h1 align="left">Hi, there! 👋</h1>
 
 <h3 align="left">
   I love open-source! 
