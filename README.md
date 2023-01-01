@@ -3,7 +3,7 @@
 <h1 align="left">Hi, there! 👋</h1>
 
 <h3 align="left">
-  I love open-source! 
+  I love open source! 
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Never+gonna+give+you+up)](https://git.io/typing-svg)
