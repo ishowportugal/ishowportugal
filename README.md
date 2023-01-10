@@ -1,6 +1,6 @@
 <img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
 
-<h1 align="left">YOOOOO</h1>
+<h1 align="left">Hi, there! 👋</h1>
 
 <h3 align="left">
  “Change is the law of life. And those who look only to the past or the present are certain to miss the future." - John F. Kennedy</a> ;)
