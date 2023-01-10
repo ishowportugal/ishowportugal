@@ -3,7 +3,7 @@
 <h1 align="left">Hi, there! 👋</h1>
 
 <h3 align="left">
- “Change is the law of life. And those who look only to the past or the present are certain to miss the future." - John F. Kennedy</a> ;)
+ “Change is the law of life. And those who look only to the past or the present are certain to miss the future." - John F. Kennedy</a> 
 </h3>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Notion+is+the+best+study+tool)](https://git.io/typing-svg)
