@@ -1,4 +1,4 @@
-<img align='left' src='https://cdn.discordapp.com/attachments/959477385626026024/975700403792515122/profile-first-issue-dark.png' width='30%'/> 
+<img align='left' src='https://user-images.githubusercontent.com/105401901/211526069-fe2bcbef-ee10-45b2-95d3-194a29b9a055.png' width='30%'/> 
 
 <h1 align="left">Hi, there! 👋</h1>
 
