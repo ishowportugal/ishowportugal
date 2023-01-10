@@ -1,7 +1,7 @@
-# Amiyaz’s study dashboard
+# Amiyaz's Github
 
 <aside>
-😎 Welcome back, Amiyaz!
+😎 Hello there!
 
 </aside>
 
