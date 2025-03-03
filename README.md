@@ -1,4 +1,4 @@
-![GOATAntonyGIF](https://tenor.com/en-GB/view/antony-real-betis-aura-goal-football-gif-15827129607166735624)
+![GOATAntonyGIF](https://media1.tenor.com/m/26VChaE9tQgAAAAd/antony-real-betis.gif)
 
 <h1 align="left">e aí cara! 👋</h1>
 
