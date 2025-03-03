@@ -1,4 +1,4 @@
-![GOATAntonyGIF](https://media1.tenor.com/m/26VChaE9tQgAAAAd/antony-real-betis.gif)
+![GOATAntonyGIF](https://c.tenor.com/26VChaE9tQgAAAAd/tenor.gif)
 
 <h1 align="left">e aí cara! 👋</h1>
 
