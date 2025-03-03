@@ -1,4 +1,4 @@
-![lewishamiltonfiregif](https://github.com/ishowportugal/ishowportugal/assets/105401901/90ce497b-ae91-4d94-b8e1-ed5aaeff3a94)
+![GOATAntonyGIF](https://tenor.com/en-GB/view/antony-real-betis-aura-goal-football-gif-15827129607166735624)
 
 <h1 align="left">e aí cara! 👋</h1>
 
