@@ -10,6 +10,4 @@
 
 ![iShowPortugal Twitch Banner](https://github.com/ishowportugal/ishowportugal/assets/105401901/3b18d28d-664c-4d22-a119-7108df737177)
 
-![ishowportugal](https://github-readme-stats.vercel.app/api?username=ishowportugal&show_icons=true&theme=tokyonight&hide=["issues"])
-
 ![ishowportugal](https://github-readme-stats.vercel.app/api/top-langs?username=ishowportugal&show_icons=true&theme=tokyonight&layout=compact)
